@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\HTTP.API\bin\Debug\net8.0\HTTP.API.deps.json
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\HTTP.API\bin\Debug\net8.0\HTTP.API.dll
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\HTTP.API\bin\Debug\net8.0\HTTP.API.pdb
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\HTTP.API\bin\Debug\net8.0\CORE.dll
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\HTTP.API\bin\Debug\net8.0\CORE.pdb
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\HTTP.API\obj\Debug\net8.0\HTTP.API.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\HTTP.API\obj\Debug\net8.0\HTTP.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\HTTP.API\obj\Debug\net8.0\HTTP.API.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\HTTP.API\obj\Debug\net8.0\HTTP.API.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\HTTP.API\obj\Debug\net8.0\HTTP.API.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\HTTP.API\obj\Debug\net8.0\HTTP.API.csproj.Up2Date
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\HTTP.API\obj\Debug\net8.0\HTTP.API.dll
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\HTTP.API\obj\Debug\net8.0\refint\HTTP.API.dll
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\HTTP.API\obj\Debug\net8.0\HTTP.API.pdb
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\HTTP.API\obj\Debug\net8.0\ref\HTTP.API.dll

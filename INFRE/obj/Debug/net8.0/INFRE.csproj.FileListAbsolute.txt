@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\INFRE\bin\Debug\net8.0\INFRE.deps.json
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\INFRE\bin\Debug\net8.0\INFRE.dll
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\INFRE\bin\Debug\net8.0\INFRE.pdb
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\INFRE\bin\Debug\net8.0\CORE.dll
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\INFRE\bin\Debug\net8.0\CORE.pdb
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\INFRE\obj\Debug\net8.0\INFRE.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\INFRE\obj\Debug\net8.0\INFRE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\INFRE\obj\Debug\net8.0\INFRE.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\INFRE\obj\Debug\net8.0\INFRE.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\INFRE\obj\Debug\net8.0\INFRE.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\INFRE\obj\Debug\net8.0\INFRE.csproj.Up2Date
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\INFRE\obj\Debug\net8.0\INFRE.dll
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\INFRE\obj\Debug\net8.0\refint\INFRE.dll
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\INFRE\obj\Debug\net8.0\INFRE.pdb
+C:\Users\HP\OneDrive\Escritorio\PRUEBAS\PRUEBA01\INFRE\obj\Debug\net8.0\ref\INFRE.dll

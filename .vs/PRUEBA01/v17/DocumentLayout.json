@@ -1,0 +1,480 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEE1F86-3EFB-49B6-AB70-F1D8FE465444}|SITIO\\SITIO.csproj|c:\\users\\hp\\onedrive\\escritorio\\pruebas\\prueba01\\sitio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEE1F86-3EFB-49B6-AB70-F1D8FE465444}|SITIO\\SITIO.csproj|solutionrelative:sitio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D60B62C2-1B11-42AB-AC92-CA3AB6DCD803}|HTTP.API\\HTTP.API.csproj|c:\\users\\hp\\onedrive\\escritorio\\pruebas\\prueba01\\http.api\\service\\apiinterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D60B62C2-1B11-42AB-AC92-CA3AB6DCD803}|HTTP.API\\HTTP.API.csproj|solutionrelative:http.api\\service\\apiinterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEE1F86-3EFB-49B6-AB70-F1D8FE465444}|SITIO\\SITIO.csproj|c:\\users\\hp\\onedrive\\escritorio\\pruebas\\prueba01\\sitio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEE1F86-3EFB-49B6-AB70-F1D8FE465444}|SITIO\\SITIO.csproj|solutionrelative:sitio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8C1199-567B-4FC8-B0C4-EB66EB4CAF9D}|API\\API.csproj|c:\\users\\hp\\onedrive\\escritorio\\pruebas\\prueba01\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF8C1199-567B-4FC8-B0C4-EB66EB4CAF9D}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B70656-AF8D-4A88-A010-C445F872398D}|CORE\\CORE.csproj|c:\\users\\hp\\onedrive\\escritorio\\pruebas\\prueba01\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16B70656-AF8D-4A88-A010-C445F872398D}|CORE\\CORE.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B70656-AF8D-4A88-A010-C445F872398D}|CORE\\CORE.csproj|c:\\users\\hp\\onedrive\\escritorio\\pruebas\\prueba01\\core\\cors\\productospresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B70656-AF8D-4A88-A010-C445F872398D}|CORE\\CORE.csproj|solutionrelative:core\\cors\\productospresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8C1199-567B-4FC8-B0C4-EB66EB4CAF9D}|API\\API.csproj|c:\\users\\hp\\onedrive\\escritorio\\pruebas\\prueba01\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF8C1199-567B-4FC8-B0C4-EB66EB4CAF9D}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8C1199-567B-4FC8-B0C4-EB66EB4CAF9D}|API\\API.csproj|c:\\users\\hp\\onedrive\\escritorio\\pruebas\\prueba01\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8C1199-567B-4FC8-B0C4-EB66EB4CAF9D}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8C1199-567B-4FC8-B0C4-EB66EB4CAF9D}|API\\API.csproj|c:\\users\\hp\\onedrive\\escritorio\\pruebas\\prueba01\\api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8C1199-567B-4FC8-B0C4-EB66EB4CAF9D}|API\\API.csproj|solutionrelative:api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D404B9-9B8C-4FD3-9EF4-0A7F0DB1E5F1}|INFRE\\INFRE.csproj|c:\\users\\hp\\onedrive\\escritorio\\pruebas\\prueba01\\infre\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D404B9-9B8C-4FD3-9EF4-0A7F0DB1E5F1}|INFRE\\INFRE.csproj|solutionrelative:infre\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8C1199-567B-4FC8-B0C4-EB66EB4CAF9D}|API\\API.csproj|c:\\users\\hp\\onedrive\\escritorio\\pruebas\\prueba01\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8C1199-567B-4FC8-B0C4-EB66EB4CAF9D}|API\\API.csproj|solutionrelative:api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B70656-AF8D-4A88-A010-C445F872398D}|CORE\\CORE.csproj|c:\\users\\hp\\onedrive\\escritorio\\pruebas\\prueba01\\core\\service\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B70656-AF8D-4A88-A010-C445F872398D}|CORE\\CORE.csproj|solutionrelative:core\\service\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D60B62C2-1B11-42AB-AC92-CA3AB6DCD803}|HTTP.API\\HTTP.API.csproj|c:\\users\\hp\\onedrive\\escritorio\\pruebas\\prueba01\\http.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D60B62C2-1B11-42AB-AC92-CA3AB6DCD803}|HTTP.API\\HTTP.API.csproj|solutionrelative:http.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B70656-AF8D-4A88-A010-C445F872398D}|CORE\\CORE.csproj|c:\\users\\hp\\onedrive\\escritorio\\pruebas\\prueba01\\core\\interfaces\\service\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B70656-AF8D-4A88-A010-C445F872398D}|CORE\\CORE.csproj|solutionrelative:core\\interfaces\\service\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B70656-AF8D-4A88-A010-C445F872398D}|CORE\\CORE.csproj|c:\\users\\hp\\onedrive\\escritorio\\pruebas\\prueba01\\core\\interfaces\\respositorio\\iproductorespositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B70656-AF8D-4A88-A010-C445F872398D}|CORE\\CORE.csproj|solutionrelative:core\\interfaces\\respositorio\\iproductorespositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D404B9-9B8C-4FD3-9EF4-0A7F0DB1E5F1}|INFRE\\INFRE.csproj|c:\\users\\hp\\onedrive\\escritorio\\pruebas\\prueba01\\infre\\repositorio\\productorespositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D404B9-9B8C-4FD3-9EF4-0A7F0DB1E5F1}|INFRE\\INFRE.csproj|solutionrelative:infre\\repositorio\\productorespositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 50,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:171:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:173:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:169:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:174:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:170:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "API",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T04:52:26.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CORE",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\CORE\\CORE.csproj",
+              "RelativeDocumentMoniker": "CORE\\CORE.csproj",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\CORE\\CORE.csproj",
+              "RelativeToolTip": "CORE\\CORE.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T04:52:22.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\SITIO\\Program.cs",
+              "RelativeDocumentMoniker": "SITIO\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\SITIO\\Program.cs",
+              "RelativeToolTip": "SITIO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:31:55.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\SITIO\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SITIO\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\SITIO\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SITIO\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:25:10.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiInterna.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\HTTP.API\\Service\\ApiInterna.cs",
+              "RelativeDocumentMoniker": "HTTP.API\\Service\\ApiInterna.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\HTTP.API\\Service\\ApiInterna.cs",
+              "RelativeToolTip": "HTTP.API\\Service\\ApiInterna.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:40:59.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoSPResult.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\CORE\\CORs\\ProductoSPResult.cs",
+              "RelativeDocumentMoniker": "CORE\\CORs\\ProductoSPResult.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\CORE\\CORs\\ProductoSPResult.cs",
+              "RelativeToolTip": "CORE\\CORs\\ProductoSPResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:44:49.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T03:46:07.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:37:05.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\API\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\API\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:44:13.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\INFRE\\Class1.cs",
+              "RelativeDocumentMoniker": "INFRE\\Class1.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\INFRE\\Class1.cs",
+              "RelativeToolTip": "INFRE\\Class1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:26:23.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:25:01.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\CORE\\Service\\ProductoService.cs",
+              "RelativeDocumentMoniker": "CORE\\Service\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\CORE\\Service\\ProductoService.cs",
+              "RelativeToolTip": "CORE\\Service\\ProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:35:22.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\HTTP.API\\Class1.cs",
+              "RelativeDocumentMoniker": "HTTP.API\\Class1.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\HTTP.API\\Class1.cs",
+              "RelativeToolTip": "HTTP.API\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:39:05.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\CORE\\Interfaces\\Service\\IProductoService.cs",
+              "RelativeDocumentMoniker": "CORE\\Interfaces\\Service\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\CORE\\Interfaces\\Service\\IProductoService.cs",
+              "RelativeToolTip": "CORE\\Interfaces\\Service\\IProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:35:07.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductoRespositorio.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\CORE\\Interfaces\\Respositorio\\IProductoRespositorio.cs",
+              "RelativeDocumentMoniker": "CORE\\Interfaces\\Respositorio\\IProductoRespositorio.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\CORE\\Interfaces\\Respositorio\\IProductoRespositorio.cs",
+              "RelativeToolTip": "CORE\\Interfaces\\Respositorio\\IProductoRespositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:32:52.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductoRespositorio.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\INFRE\\Repositorio\\ProductoRespositorio.cs",
+              "RelativeDocumentMoniker": "INFRE\\Repositorio\\ProductoRespositorio.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\PRUEBAS\\PRUEBA01\\INFRE\\Repositorio\\ProductoRespositorio.cs",
+              "RelativeToolTip": "INFRE\\Repositorio\\ProductoRespositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:32:28.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
