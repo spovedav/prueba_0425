@@ -1,0 +1,40 @@
+﻿@model List<CORE.CORs.ProductoSPResult>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@if (!string.IsNullOrEmpty(ViewBag.error))
+{
+    <div class="alert alert-danger">@ViewBag.error</div>
+}
+
+@if(Model != null)
+{
+    if (Model.Any())
+    {
+        foreach (var item in Model)
+        {
+            <div class="card">
+                <div class="card-body">
+                    <p><strong>Id: </strong> @item.IdProducto</p>
+                    <p><strong>Nombre: </strong> @item.Nombre</p>
+                    <p><strong>Estado: </strong> @(item.Estado ? "Activo" : "No Activo")</p>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <p style="color: red">No hay registros</p>
+    }
+}
+else
+{
+    <p style="color: red">Registro Nulo</p>
+}
